@@ -1,0 +1,16 @@
+TODO UDAH SAMPAI ARRAY ULANGI SEMUA SEBELUM BELAJAR AGAR TIDAK LUPA 
+MULAI DARI INDEX.PHP, VARIABLE.PHP,CONSTANT.PHP, NULL.PHP DAN ARRAY.PHP
+BELAJAR MINIMAL 1 JAM SAMPAI JENUH USAHAKAN FOKUS 
+
+
+
+
+
+
+
+BELAJAR OOP 
+class adalah:
+blueprint/ template  untuk membuat instance dari object
+class mendefinisikan object
+menyimpan data dan prilaku yang disebut dengan property dan method
+
